@@ -1,0 +1,6 @@
+[INFO ] 2024-12-02 17:33:31,006 com.demoqa.base.BaseTest:29 - Hello
+[INFO ] 2024-12-02 17:33:37,606 com.demoqa.base.BaseTest:28 - Info
+[DEBUG] 2024-12-02 17:33:37,606 com.demoqa.base.BaseTest:29 - Debug
+[ERROR] 2024-12-02 17:33:37,606 com.demoqa.base.BaseTest:30 - Error
+[WARN ] 2024-12-02 17:33:37,606 com.demoqa.base.BaseTest:31 - Warn
+[INFO ] 2024-12-02 17:33:37,729 com.demoqa.base.BaseTest:46 - Bye
